@@ -348,7 +348,9 @@
 
 <img width="250" alt="image" src="https://github.com/dimss113/Jarkom-Modul-4-A07-2023/assets/89715780/5d743910-0793-4b40-a90e-1cf03c6e6bfd">
 
+
 <img width="251" alt="image" src="https://github.com/dimss113/Jarkom-Modul-4-A07-2023/assets/89715780/46d807b9-6bf1-44ea-ba81-cdfca390c6d7">
+
 
 <img width="250" alt="image" src="https://github.com/dimss113/Jarkom-Modul-4-A07-2023/assets/89715780/61283f38-18ec-47a4-bab4-42a239f07f95">
 
@@ -391,6 +393,11 @@
 - Router Heiter
 
 <img width="258" alt="image" src="https://github.com/dimss113/Jarkom-Modul-4-A07-2023/assets/89715780/3e4f0ff0-7494-4278-b2d6-94cc69283c8b">
+
+### Ping Testing
+
+![image](https://github.com/dimss113/Jarkom-Modul-4-A07-2023/assets/89715780/48f1a55e-7c47-4b80-a801-f25304c37b9f)
+
 
 ## VLSM Cisco Packet Tracer
 
